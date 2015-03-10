@@ -1,0 +1,16 @@
+{
+  "name": "CodeArena",
+  "version": "1.0.0",
+  "description": "Code Arena by Programming Geek",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vikash Verma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "3.5.1",
+    "mongoose": "^3.8.24",
+    "request": "^2.53.0"
+  }
+}
